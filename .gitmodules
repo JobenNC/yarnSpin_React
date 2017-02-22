@@ -1,0 +1,3 @@
+[submodule "yarnSpin"]
+	path = yarnSpin
+	url = https://github.com/JobenNC/yarnSpin
